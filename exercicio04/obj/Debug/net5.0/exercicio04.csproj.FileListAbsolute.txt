@@ -1,0 +1,16 @@
+C:\Users\Marcos\Desktop\treinamento\lista_01__exericios_c_charp\exercicio04\bin\Debug\net5.0\exercicio04.exe
+C:\Users\Marcos\Desktop\treinamento\lista_01__exericios_c_charp\exercicio04\bin\Debug\net5.0\exercicio04.deps.json
+C:\Users\Marcos\Desktop\treinamento\lista_01__exericios_c_charp\exercicio04\bin\Debug\net5.0\exercicio04.runtimeconfig.json
+C:\Users\Marcos\Desktop\treinamento\lista_01__exericios_c_charp\exercicio04\bin\Debug\net5.0\exercicio04.runtimeconfig.dev.json
+C:\Users\Marcos\Desktop\treinamento\lista_01__exericios_c_charp\exercicio04\bin\Debug\net5.0\exercicio04.dll
+C:\Users\Marcos\Desktop\treinamento\lista_01__exericios_c_charp\exercicio04\bin\Debug\net5.0\ref\exercicio04.dll
+C:\Users\Marcos\Desktop\treinamento\lista_01__exericios_c_charp\exercicio04\bin\Debug\net5.0\exercicio04.pdb
+C:\Users\Marcos\Desktop\treinamento\lista_01__exericios_c_charp\exercicio04\obj\Debug\net5.0\exercicio04.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\treinamento\lista_01__exericios_c_charp\exercicio04\obj\Debug\net5.0\exercicio04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\treinamento\lista_01__exericios_c_charp\exercicio04\obj\Debug\net5.0\exercicio04.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\treinamento\lista_01__exericios_c_charp\exercicio04\obj\Debug\net5.0\exercicio04.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\treinamento\lista_01__exericios_c_charp\exercicio04\obj\Debug\net5.0\exercicio04.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\treinamento\lista_01__exericios_c_charp\exercicio04\obj\Debug\net5.0\exercicio04.dll
+C:\Users\Marcos\Desktop\treinamento\lista_01__exericios_c_charp\exercicio04\obj\Debug\net5.0\ref\exercicio04.dll
+C:\Users\Marcos\Desktop\treinamento\lista_01__exericios_c_charp\exercicio04\obj\Debug\net5.0\exercicio04.pdb
+C:\Users\Marcos\Desktop\treinamento\lista_01__exericios_c_charp\exercicio04\obj\Debug\net5.0\exercicio04.genruntimeconfig.cache
