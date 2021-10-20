@@ -10,7 +10,7 @@ namespace exercicio04
             decimal salario = Convert.ToDecimal(Console.ReadLine());
             decimal total = 0;
             decimal valorAumento = 0;  
-            int porcento = 0;
+            decimal porcento = 0;
             if(salario <= 1800)
 porcento = 0.2M;
 
@@ -26,7 +26,7 @@ else
                 valorAumento = porcento * salario;
                 total = salario + valorAumento;
 
-            Console.WriteLine($"Salário Base: R$ {string.Format("{0:0.00}", salario)}\nPercentual de aumento: {string.Format("{0:0.00}", porcento * 100)}%\nValor do aumento: R$ {string.Format("{0:0.00}", valorRealReajuste)}\nNovo Salário: R$ {string.Format("{0:0.00}", novoSalario)}");
+            Console.WriteLine($"Salário Base: R$ {string.Format("{0:0.00}", salario)}\nPercentual de aumento: {string.Format("{0:0}", porcento * 100)}%\nValor do aumento: R$ {string.Format("{0:0.00}", valorAumento)}\nNovo Salário: R$ {string.Format("{0:0.00}", total)}");
 
                     }
     }
